@@ -50,7 +50,7 @@ const Hero = () => {
             className="text-center text-[40px] md:text-5xl lg:text-6xl my-4"
           />
 
-          <p className="text-center text-sm md:text-lg">
+          <p className="text-center text-sm md:text-lg mb-4 lg:mb-0 md:mb-0">
             Hi! I&apos;m Faizu, a Mern stack Developer based in Gujarat.
           </p>
 
