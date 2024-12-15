@@ -50,9 +50,7 @@ const Approach = () => {
         <Card
           title="Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="Once we’re on the same page, I grab my coffee (or maybe tea, who knows?), fire up my laptop, and dive headfirst into the code. From rough ideas to a sleek, functional masterpiece, I’ll keep you in the loop with updates that'll make you go, “Nice, it's coming together!”"
         >
           <CanvasRevealEffect
             animationSpeed={3}

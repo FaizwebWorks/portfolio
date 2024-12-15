@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building an npm package",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,130 +72,98 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title:
+      "Developed the Paycio Website with Smooth UI and Interactive Features",
+    des: "I built the frontend of the Paycio website, focusing on a sleek, responsive design and an intuitive user experience. Integrated almost every languages, interactive animations, ensuring smooth transitions and engaging visuals. The platform is designed to support seamless crypto transactions, offering a modern and user-friendly interface.",
+    img: "/paycio.png",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://www.paycio.com/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Developed the MyAltPay Website with a Modern and Engaging UI",
+    des: "I built the frontend of the MyAltPay website, focusing on a clean, responsive design and intuitive user interactions. Integrated 7 languages, Smooth animations and dynamic transitions to enhance user engagement. The platform is tailored for seamless alternative payment solutions, delivering a user-friendly and visually appealing experience.",
+    img: "/myAltPay.png",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://www.myaltpay.com/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
-  },
-  {
-    id: 4,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/gsap.svg"],
+    link: "https://apple-iphone15-clone-alpha.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "Random Password Generator",
+    des: "This is a React-based password generator with configurable options for length, inclusion of numbers, and special characters. It allows users to quickly generate secure passwords and copy them to the clipboard with a simple click. Built with modern React hooks like useState, useEffect, useRef, and useCallback, this app delivers a smooth and responsive user experience.",
+    img: "/p4.png",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://password-generator-opal-ten.vercel.app/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Faizal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Faizal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Faizal is the ideal partner.",
+    name: "Sajal Agrawal",
+    title: "Owner of Sajal Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Faizal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Faizal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Faizal is the ideal partner.",
+    name: "Sajal Agrawal",
+    title: "Owner of Sajal Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Faizal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Faizal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Faizal is the ideal partner.",
+    name: "Sajal Agrawal",
+    title: "Owner of Sajal Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Faizal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Faizal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Faizal is the ideal partner.",
+    name: "Sajal Agrawal",
+    title: "Owner of Sajal Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-];
-
-export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+      "Collaborating with Faizal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Faizal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Faizal is the ideal partner.",
+    name: "Sajal Agrawal",
+    title: "Owner of Sajal Technologies",
   },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Frontend Developer",
+    desc: "Developed seamless, functional UIs with a focus on beauty and usability, integrating APIs and building multiple full-stack projects. Led the creation of a complete e-commerce UI for the 'Chakde' platform at Sajal Technologies, delivering high-quality results and enhancing the user experience.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
-  {
-    id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
+  // {
+  //   id: 2,
+  //   title: "Mobile App Dev - JSM Tech",
+  //   desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+  //   className: "md:col-span-2", // change to md:col-span-2
+  //   thumbnail: "/exp2.svg",
+  // },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Web Developer",
+    desc: "Developed the frontend for Markaaz, creating clean, structured layouts to display data efficiently and enhance user experience.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Creator of YouControl Chrome Extension",
+    desc: "Developed YouControl, a Chrome extension that auto-pauses and plays YouTube videos when switching tabs or windows, perfect for developers who code while watching tutorials.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +173,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/FaizwebWorks",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/insta.svg",
+    link: "https://instagram.com/ur_faizz13",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/wha.svg",
+    link: "https://wa.me/919023827460?text=Hi%20Faizal,%20I%20am%20interested%20in%20your%20portfolio!",
   },
 ];
