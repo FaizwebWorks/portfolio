@@ -183,6 +183,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/wha.svg",
-    link: "https://wa.me/919023827460?text=Hi%20Faizal,%20I%20am%20interested%20in%20your%20portfolio!",
+    link: "https://wa.me/919023827460?text=Hi%20Faizal,%20I%20came%20across%20your%20portfolio%20and%20would%20love%20to%20discuss%20a%20project%20idea%20with%20you.%20Let%27s%20connect!",
   },
 ];
