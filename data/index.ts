@@ -97,11 +97,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Random Password Generator",
-    des: "This is a React-based password generator with configurable options for length, inclusion of numbers, and special characters. It allows users to quickly generate secure passwords and copy them to the clipboard with a simple click. Built with modern React hooks like useState, useEffect, useRef, and useCallback, this app delivers a smooth and responsive user experience.",
+    title: "Chatty - Real-Time Chat Application",
+    des: "Chatty is a full-stack chat application built using the MERN stack (MongoDB, Express, React, Node.js). It offers real-time messaging powered by Socket.io, secure authentication with bcryptjs and jsonwebtoken, and image sharing capabilities through Cloudinary. The application features customizable themes, profile picture updates, and a modern user interface designed with TailwindCSS and DaisyUI. Data is securely stored in MongoDB, and the app is powered by robust REST APIs for seamless functionality.",
     img: "/p4.png",
-    iconLists: ["/re.svg", "/tail.svg"],
-    link: "https://password-generator-opal-ten.vercel.app/",
+    iconLists: ["/re.svg", "/tail.svg", "/mongo.svg", "/express.svg", "/node.svg"],
+    link: "https://fullstack-chat-app-rvah.onrender.com",
   },
 ];
 
