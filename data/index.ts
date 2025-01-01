@@ -89,18 +89,24 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/gsap.svg"],
-    link: "https://apple-iphone15-clone-alpha.vercel.app/",
+    title: "Animated Zentry Website",
+    des: "Built a responsive and interactive Zentry website using React, Tailwind CSS, and GSAP. Features, smooth animations, and a polished, mobile-first design to showcase advanced frontend skills.",
+    img: "/zentry.png",
+    iconLists: ["/re.svg", "/tail.svg", "/gsap.svg"],
+    link: "https://zentry-wheat.vercel.app/",
   },
   {
     id: 4,
     title: "Chatty - Real-Time Chat Application",
     des: "Chatty is a full-stack chat application built using the MERN stack (MongoDB, Express, React, Node.js). It offers real-time messaging powered by Socket.io, secure authentication with bcryptjs and jsonwebtoken, and image sharing capabilities through Cloudinary. The application features customizable themes, profile picture updates, and a modern user interface designed with TailwindCSS and DaisyUI. Data is securely stored in MongoDB, and the app is powered by robust REST APIs for seamless functionality.",
     img: "/p4.png",
-    iconLists: ["/re.svg", "/tail.svg", "/mongo.svg", "/express.svg", "/node.svg"],
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/mongo.svg",
+      "/express.svg",
+      "/node.svg",
+    ],
     link: "https://fullstack-chat-app-rvah.onrender.com",
   },
 ];
@@ -148,16 +154,16 @@ export const workExperience = [
   },
   // {
   //   id: 2,
-  //   title: "Mobile App Dev - JSM Tech",
+  //   title: "Mobile App Dev",
   //   desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-  //   className: "md:col-span-2", // change to md:col-span-2
+  //   className: "md:col-span-2",
   //   thumbnail: "/exp2.svg",
   // },
   {
     id: 3,
     title: "Freelance Web Developer",
     desc: "Developed the frontend for Markaaz, creating clean, structured layouts to display data efficiently and enhance user experience.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
