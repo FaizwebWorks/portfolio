@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title:
       "Developed the Paycio Website with Smooth UI and Interactive Features",
-    des: "I built the frontend of the Paycio website, focusing on a sleek, responsive design and an intuitive user experience. Integrated almost every languages, interactive animations, ensuring smooth transitions and engaging visuals. The platform is designed to support seamless crypto transactions, offering a modern and user-friendly interface.",
+    des: "I built the frontend of the Paycio website, focusing on a sleek, responsive design and an intuitive user experience. Integrated almost every languages, interactive animations, ensuring smooth transitions and engaging visuals. The platform is designed to support seamless crypto transactions, offering a modern and user-friendly interface",
     img: "/paycio.png",
     iconLists: ["/re.svg", "/tail.svg"],
     link: "https://www.paycio.com/",
